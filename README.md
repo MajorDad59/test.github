@@ -1,3 +1,3 @@
 # test.github
 
-git init
+Bonjour for each !
